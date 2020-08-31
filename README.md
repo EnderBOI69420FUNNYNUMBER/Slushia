@@ -1,4 +1,4 @@
-## Hi!.
+## Hi!
 I'm Slushia (or Bria), a developer that specializes in Node and C#, and welcome to my GitHub! I mainly do backend, but also do a little bit of frontend, depending on the project. 
 
 ### Interests
